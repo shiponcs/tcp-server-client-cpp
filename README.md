@@ -10,6 +10,6 @@
 - To compile and run client
     
 ``` 
-    g++ TCP_socket.cpp server_client.cpp -o client`
+    g++ TCP_socket.cpp server_client.cpp -o client
     ./client
 ```
